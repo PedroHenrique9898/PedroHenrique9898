@@ -22,9 +22,9 @@ Aqui você encontrará projetos, ideias e soluções que refletem a minha paixã
 <!--
 ### 🌐 Links:
 - [LinkedIn](#)
--->
----
 
+---
+-->
 ### 🤝 Contribuição:
 Fique à vontade para explorar e contribuir nos repositórios. Caso tenha alguma sugestão ou dúvida, pode me contatar!
 
