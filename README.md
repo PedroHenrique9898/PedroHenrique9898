@@ -6,9 +6,9 @@ Aqui você encontrará projetos, ideias e soluções que refletem a minha paixã
 ---
 
 ### 🔍 Sobre Mim:
-- 💻 Desenvolvedor com foco em [área de especialização, ex: Front-End, Back-End, Full Stack, etc.].
+- 💻 Estudante do Curso Técnico Integrado em Informática da SATC - Sociedade Assistência aos Trabalhadores do Carvão.
 - 📘 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
-- 🌟 Interesso-me por [áreas de interesse, ex: Inteligência Artificial, Desenvolvimento Web, etc.].
+- 🌟 Interesso-me por Inteligência Artificial, Desenvolvimento Web, etc.
 
 ---
 
@@ -20,17 +20,8 @@ Aqui você encontrará projetos, ideias e soluções que refletem a minha paixã
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
-- **Linguagens:** [Exemplo: JavaScript, Python, HTML/CSS].
-- **Frameworks:** [Exemplo: React, Node.js, Django].
-- **Ferramentas:** [Exemplo: Git, Docker, VS Code].
-
----
-
 ### 🌐 Links:
-- [Portfólio](#)  
-- [LinkedIn](#)  
-- [Vercel](#)
+- [LinkedIn](#)
 
 ---
 
@@ -39,4 +30,4 @@ Fique à vontade para explorar e contribuir nos repositórios. Caso tenha alguma
 
 ---
 
-Obrigado pela visita! 😊
+Obrigado pela visita!
