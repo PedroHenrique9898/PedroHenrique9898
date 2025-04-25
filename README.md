@@ -17,12 +17,12 @@ Aqui você encontrará projetos, ideias e soluções que refletem a minha paixã
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique9898&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro Henrique"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique9898&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas por Pedro Henrique"/>
 </div>
-
+<!--
 ---
 
 ### 🌐 Links:
 - [LinkedIn](#)
-
+-->
 ---
 
 ### 🤝 Contribuição:
